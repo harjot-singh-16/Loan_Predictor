@@ -14,14 +14,14 @@ The dataset used in this project is provided in the `train.csv` and `test.csv` f
 #####  train.csv
 #####  test.csv
 #####  sample_submission.csv
-##  notebooks
+##  Notebooks
 #####  model.ipynb
-## models
-#####  Logistic
-#####  DecisionTree
-#####  RandomForest
-#####  ANN
-
+## Models
+#####  - Logistic
+#####  - DecisionTree
+#####  - RandomForest
+#####  - ANN
+#####
 First we explored the dataset's features, distributions, relationships, and trends. Visualizations are created using libraries like Pandas, Seaborn, and Matplotlib. Data preprocessing steps are carried out carefully. These steps include handling missing values, encoding categorical variables, and creating new features if needed.
 The Model building focuses on building and evaluating machine learning models for loan prediction. Different algorithms like Logistic Regression, Decision Trees, and Neural Networks are explored. Model evaluation metrics and visualizations are included.
 
