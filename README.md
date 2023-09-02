@@ -10,13 +10,13 @@ The dataset used in this project is provided in the `train.csv` and `test.csv` f
 ## Project Structure
 
 
-#### data
+## data
 #####  train.csv
 #####  test.csv
 #####  sample_submission.csv
-#####  notebooks
+##  notebooks
 #####  model.ipynb
-#### models
+## models
 #####  Logistic
 #####  DecisionTree
 #####  RandomForest
