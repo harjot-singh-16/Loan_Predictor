@@ -17,16 +17,20 @@ The dataset used in this project is provided in the `train.csv` and `test.csv` f
 ##  Notebooks
 #####  -model.ipynb
 ## Models
-#####  -Logistic Regression
+#####  Logistic Regression
+
 ![image](https://github.com/harjot-singh-16/Loan_Predictor/assets/104484529/df2ddf2c-0bac-442e-af6b-836e3a9d1828)
 
-#####  -DecisionTree using Stratified k-fold
+#####  DecisionTree using Stratified k-fold
+
 ![image](https://github.com/harjot-singh-16/Loan_Predictor/assets/104484529/ad636fad-6d5a-4171-8dd3-fe92d431e8c1)
 
-#####  -RandomForest
+#####  RandomForest
+
 ![image](https://github.com/harjot-singh-16/Loan_Predictor/assets/104484529/07d96734-f1ed-41dc-9817-d4d775d5708b)
 
-#####  -ANN
+#####  ANN
+
 ![image](https://github.com/harjot-singh-16/Loan_Predictor/assets/104484529/9da93f55-16ca-4227-a3b3-02b769f92930)
 
 #####
